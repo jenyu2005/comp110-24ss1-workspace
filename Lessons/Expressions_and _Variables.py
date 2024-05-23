@@ -44,8 +44,6 @@ print(total_miles)
 # input("What's your favorite color?")
 # Question what you want to ask- results in a type in box (answer the question)
 
-# You could print it out- print(input("What's your favorite color?")) , will result in the answer you put in
-
 """Stored input as a variable"""
 fav_color: str = input("What's your favorite color?")
 print(fav_color + "is a cool color!")
